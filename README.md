@@ -10,6 +10,11 @@ The components are styled for modern web applications and can be extended furthe
 
 ---
 
+##📸 Screenshots
+
+👉 Check the screenshots/ folder for form preview images.
+---
+
 ## ⚡ Components Implemented
 
 1. **InputField Component**  
@@ -29,7 +34,17 @@ The components are styled for modern web applications and can be extended furthe
 - **Storybook** (for component testing and documentation)  
 
 ---
+##🎯 Approach
 
+Designed modular and reusable UI components.
+
+Used Tailwind CSS for utility-first styling.
+
+Integrated Storybook for isolated component development & testing.
+
+Followed clean code practices with TypeScript for type safety.
+
+---
 ## 🚀 Getting Started
 
 Clone the repository and install dependencies:
@@ -38,3 +53,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/react-components-assignment.git
 cd react-components-assignment
 npm install
+
