@@ -10,7 +10,7 @@ The components are styled for modern web applications and can be extended furthe
 
 ---
 
-##📸 Screenshots
+## 📸 Screenshots
 
 👉 Check the screenshots/ folder for form preview images.
 ---
@@ -34,15 +34,15 @@ The components are styled for modern web applications and can be extended furthe
 - **Storybook** (for component testing and documentation)  
 
 ---
-##🎯 Approach
+## 🎯 Approach
 
-Designed modular and reusable UI components.
+- Designed modular and reusable UI components.
 
-Used Tailwind CSS for utility-first styling.
+- Used Tailwind CSS for utility-first styling.
 
-Integrated Storybook for isolated component development & testing.
+- Integrated Storybook for isolated component development & testing.
 
-Followed clean code practices with TypeScript for type safety.
+- Followed clean code practices with TypeScript for type safety.
 
 ---
 ## 🚀 Getting Started
