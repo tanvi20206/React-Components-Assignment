@@ -42,7 +42,7 @@ export function DataTable<T extends { id: string | number }>({
     }
   };
 
-  let sortedData = [...data];
+  const sortedData = [...data];
   if (sortKey) {
     sortedData.sort((a, b) => {
       const valA = a[sortKey as keyof T];
